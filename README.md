@@ -4,6 +4,7 @@
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **harshanaeshan2002@gmail.com**
+- Linkedin Profile **linkedin.com/in/eshan-harshana-48b705370**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
