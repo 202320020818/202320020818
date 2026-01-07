@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Eshan Harshana</h1>
 <h3 align="center">Full Stack Developer | Undergraduate at SLIIT 🇱🇰</h3>
 
+---
+## 🤝 Connect With Me
+
 <p align="center">
   <a href="mailto:harshanaeshan2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-harshanaeshan2002%40gmail.com-red?style=flat&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/eshan-harshana-48b705370/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
 </p>
@@ -36,19 +39,6 @@
 - 📅 **Event Planning System** – Full Stack Web Application  
 
 👉 *More projects available in my repositories*
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/eshan-harshana-48b705370/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:harshanaeshan2002@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
 
 ---
 
