@@ -24,20 +24,9 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=
-  html,css,js,ts,
-  c,cpp,
-  react,nextjs,nodejs,express,nestjs,redux,
-  svelte,vite,
-  mongodb,mysql,postgres,oracle,
-  java,spring,kotlin,python,php,dotnet,
-  android,flutter,
-  firebase,aws,docker,git,github,linux,
-  figma,tailwind,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,java,python,php,aws,docker,git,figma" />
 </p>
-
-
 
 ---
 
