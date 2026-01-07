@@ -16,7 +16,7 @@
 
 - 🎓 Undergraduate at **SLIIT – BSc (Hons) in Information Technology**
 - 💻 Passionate **Full Stack Developer**
-- 🌱 Currently learning **Advanced MERN, Mobile Development & Cloud**
+- 🌱 Currently learning **Advanced MERN, Mobile Development & Cloud , other ...**
 - 💬 Ask me about **Web Development, MERN Stack, Android**
 - 📫 Reach me at **harshanaeshan2002@gmail.com**
 
@@ -25,17 +25,18 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,java,kotlin,python,php,flutter,firebase,aws,docker,git,linux,figma,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=
+  html,css,js,ts,
+  c,cpp,
+  react,nextjs,nodejs,express,nestjs,redux,
+  svelte,vite,
+  mongodb,mysql,postgres,oracle,
+  java,spring,kotlin,python,php,dotnet,
+  android,flutter,
+  firebase,aws,docker,git,github,linux,
+  figma,tailwind,bootstrap" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" width="48%" />
-</p>
 
 ---
 
@@ -52,7 +53,7 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/eshan-harshana-48b705370/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:harshanaeshan2002@gmail.com">
@@ -64,10 +65,6 @@
 
 <p align="center">
   💡 *“Code with purpose, build with passion.”*
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
