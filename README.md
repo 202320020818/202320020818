@@ -22,7 +22,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+### 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=
@@ -36,6 +36,7 @@
   firebase,aws,docker,git,github,linux,
   figma,tailwind,bootstrap" />
 </p>
+
 
 
 ---
