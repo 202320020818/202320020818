@@ -1,10 +1,70 @@
 <h1 align="center">Hi 👋, I'm Eshan Harshana</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h3 align="center">Full Stack Developer | Undergraduate at SLIIT 🇱🇰</h3>
 
-- 💬 Ask me about **Web development**
+<p align="center">
+  <a href="mailto:harshanaeshan2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-harshanaeshan2002%40gmail.com-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
 
-- 📫 How to reach me **harshanaeshan2002@gmail.com**
+---
 
+## 👨‍💻 About Me
+
+- 🎓 Undergraduate at **SLIIT – BSc (Hons) in Information Technology**
+- 💻 Passionate **Full Stack Developer**
+- 🌱 Currently learning **Advanced MERN, Mobile Development & Cloud**
+- 💬 Ask me about **Web Development, MERN Stack, Android**
+- 📫 Reach me at **harshanaeshan2002@gmail.com**
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,java,kotlin,python,php,flutter,firebase,aws,docker,git,linux,figma,tailwind,bootstrap" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" width="48%" />
+</p>
+
+---
+
+## 🚀 Top Projects
+
+- 🛒 **Dhananjee Fruit & Sweet Centre** – MERN Stack Ordering System  
+- 💰 **Personal Finance Tracker App** – Kotlin Android App  
+- 📅 **Event Planning System** – Full Stack Web Application  
+
+👉 *More projects available in my repositories*
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:harshanaeshan2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 *“Code with purpose, build with passion.”*
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
